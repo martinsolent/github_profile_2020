@@ -7,7 +7,7 @@ POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: http
 
 ![link_to profile_examples](github_profile_img/link_to profile_examples.png)
 
-WALKER.,W. 2020. What’s on your GitHub Profile [viewed 19 July 2020]. Available from: https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
+WALKER.,W. 2020. *What’s on your GitHub Profile* [viewed 19 July 2020]. Available from: https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
 
 ![tut_1](github_profile_img/tut_1.png)
 
