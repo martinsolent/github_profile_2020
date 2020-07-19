@@ -5,9 +5,7 @@ How to create a main profile using new feature 2020
 
 POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: https://github.com/M0nica
 
-
-
-![link_to profile_examples](github_profile_img/link_to profile_examples.png)
+![link_to profile_examples](github_profile_img/link_examples.png)
 
 WALKER.,W. 2020. *What’s on your GitHub Profile* [viewed 19 July 2020]. Available from: https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
 
