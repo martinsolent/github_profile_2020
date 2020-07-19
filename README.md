@@ -3,7 +3,7 @@
 
 There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page like the example below:
 
-POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: https://github.com/M0nica
+POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
 
 ![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
 
