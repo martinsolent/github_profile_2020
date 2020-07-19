@@ -1,2 +1,2 @@
-# github_profile_2020
-How to create a main profile 2020
+# GitHub Profile 2020
+How to create a main profile using nee feature 2020
