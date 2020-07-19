@@ -1,7 +1,7 @@
 # GitHub Profile 2020
 ### How to create a main profile using new feature 2020
 
-The is are some new features on GitHub fo rcreating a main promotional profile and pending repositories on your overview page like the example below:
+There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page like the example below:
 
 POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: https://github.com/M0nica
 
@@ -17,11 +17,11 @@ Create a new repository:
 
 ![tut_1](github_profile_img/tut_1.png)
 
-Git this repo the same name as you GitHub Profile (remember this is case sensitive) Make sure you check the **Initialise this repository with a README**. Then click create repository.
+Name this repo the same name as you GitHub Profile (remember this is case sensitive) Make sure you check the **Initialise this repository with a README**. Then click create repository.
 
 ![tut_2](github_profile_img/tut_3.png)
 
-Edit and update as you see fit such as add a promo banner,  GitHub offers you some pre-populated details which are commented out to get started
+Edit and update as you see fit such as add a promo banner,  GitHub offers you some pre-populated details which are commented out to get you started.
 
 ![tut_4-4](github_profile_img/tut_4-4.png)
 
@@ -29,7 +29,7 @@ Name and commit changes
 
 ![tut_4-4](github_profile_img/tut_4-4.png)
 
-Now go to your main profile page - Overview and you the read will be visable as a card (pinned) at the top
+Now go to your main profile page - Overview and your README will be visable as a card pinned at the top of the page.
 
 ![tut_4](github_profile_img/tut_5.png)
 
@@ -43,4 +43,4 @@ POWELL.,M., 2020. *How To Create A GitHub Profile README* [viewed 19 July 2020].
 
 BALL.,K. 2020. *EMOJI cheatsheet 😛😳😗😓🙉😸🙈🙊😽💀💢💥✨💏👫👄👃👀👛👛🗼🔮🔮🎄🎅👻* [viewed 19 July 2020]. Available from: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 
-![tut_6](/Users/solent/Documents/GitHub/solent_projects/github_profile_2020/github_profile_img/tut_6.png)
+![tut_6](github_profile_img/tut_6.png)
