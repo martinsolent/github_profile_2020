@@ -1,5 +1,5 @@
 # GitHub Profile 2020
-### How to create a main profile using new feature 2020
+### How to create a main profile
 
 There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page like the example below:
 
