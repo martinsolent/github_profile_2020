@@ -1,4 +1,4 @@
-# GitHub Profile 2020
+# GitHub Profile
 ### How to create a main profile
 
 There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page like the example below:
@@ -46,6 +46,9 @@ When it comes to your GitHub profile, it's essential to strike a balance between
 See more examples here: WALKER.,W. 2020. *What’s on your GitHub Profile* [viewed 19 July 2020]. Available from: https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
 
 ![link_to profile_examples](github_profile_img/link_examples.png)
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-otyb0ngsa4?si=NNUL99XaeIm2zib0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
 
