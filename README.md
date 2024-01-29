@@ -7,9 +7,52 @@ POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: [htt
 
 ![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
 
+#### Avoid having a GitHub Profile that makes you look like a Bot!
+
+When it comes to your GitHub profile, it's essential to strike a balance between showcasing your skills, projects, and contributions while maintaining professionalism and privacy. Here are some dos and don'ts for what information to include on your GitHub profile.
+
+**Do:**
+1. **Professional Profile Picture:** Use a professional photo or avatar that represents you well in a work context.
+
+1. **Bio/Description:** Write a brief, informative bio that highlights your expertise, interests, and contributions. Keep it concise and relevant.
+
+3. **Repositories:** Publicly showcase your best projects, contributions, and code samples. Organise them with clear descriptions and README files.
+
+4. **Contributions:** Highlight your contributions to open-source projects and collaborations. This demonstrates your engagement and expertise within the developer community.
+
+5. **Skills:** Include a list of relevant skills and technologies you're proficient in. This helps others quickly assess your expertise.
+
+6. **Contact Information:** Optionally, provide ways for others to reach out to you, such as an email address or social media profiles.
+
+7. **Open Source Contributions:** Mention any open-source projects you maintain or actively contribute to. This showcases your commitment to collaboration and community building.
+
+
+**Don't:**
+1. Sensitive Information: Avoid including sensitive personal information such as your home address, phone number, or personal email address.
+
+1. C**onfidential Code:** Refrain from uploading proprietary or confidential code to public repositories. Be mindful of intellectual property rights and confidentiality agreements.
+
+1. **Incomplete or Untidy Repositories:** Keep your repositories organised and well-documented. Avoid leaving unfinished or messy projects on your profile.
+
+1. **Unprofessional Content:** Refrain from sharing content that could be considered offensive, discriminatory, or unprofessional. Remember that your GitHub profile is a reflection of your professional image.
+
+1. **Overly Personal Details**: While it's fine to mention hobbies or interests, avoid oversharing personal details that are unrelated to your professional profile.
+
+1. **Negative Remarks:** Avoid making negative remarks about previous employers, colleagues, or projects. Maintain a positive and constructive tone in your interactions and contributions.
+
+1. **Inactive or Outdated Content:** Regularly update your profile with recent projects and contributions. Avoid leaving outdated or inactive content that doesn't reflect your current skills and expertise.
+
+
 See more examples here: WALKER.,W. 2020. *What’s on your GitHub Profile* [viewed 19 July 2020]. Available from: https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
 
 ![link_to profile_examples](github_profile_img/link_examples.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-otyb0ngsa4?si=NNUL99XaeIm2zib0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe></p>
+<p style="text-align: center;"><br></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/vNoPWpF3zJk?si=-epA2T9B2twvTRZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe><br>&nbsp;Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/create-profile">profileme.dev/create-profile</a><br></p>
+<p style="text-align: center;"><br></p>
+
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ktN5tDfQ_g8?si=ArLr8_EjJN2TH-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
 
 ### How to create a main profile README in GitHub
 
