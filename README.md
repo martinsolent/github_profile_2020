@@ -49,17 +49,19 @@ See more examples here: WALKER.,W. 2025. *What’s on your GitHub Profile* [view
 
 
 
-
+<p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-otyb0ngsa4?si=NNUL99XaeIm2zib0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
+</p>
 
-
+<p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNoPWpF3zJk?si=-epA2T9B2twvTRZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
 
 Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/create-profile">profileme.dev/create-profile</a>
+</p>
 
-
+<p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktN5tDfQ_g8?si=ArLr8_EjJN2TH-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
-
+</p>
 
 ### How to create a main profile README in GitHub
 
