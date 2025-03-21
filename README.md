@@ -3,7 +3,7 @@
 
 There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page like the example below:
 
-POWELL.,M. 2020. *M0nica - Overview* [viewed 19 July 2020]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
+POWELL.,M. 2025. *M0nica - Overview* [viewed 21 March 2025]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
 
 ![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
 
@@ -43,7 +43,7 @@ When it comes to your GitHub profile, it's essential to strike a balance between
 1. **Inactive or Outdated Content:** Regularly update your profile with recent projects and contributions. Avoid leaving outdated or inactive content that doesn't reflect your current skills and expertise.
 
 
-See more examples here: WALKER.,W. 2020. *What’s on your GitHub Profile* [viewed 19 July 2020]. Available from: https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3
+See more examples here: WALKER.,W. 2025. *What’s on your GitHub Profile* [viewed 21 March 2025]. Available from: [https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3)
 
 ![link_to profile_examples](github_profile_img/link_examples.png)
 
