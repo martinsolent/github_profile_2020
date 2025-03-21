@@ -57,7 +57,7 @@ See more examples here: WALKER.,W. 2025. *What’s on your GitHub Profile* [view
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNoPWpF3zJk?si=-epA2T9B2twvTRZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
 </p>
 
-<p>
+<p style="text-align: center;">
 Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/create-profile">profileme.dev/create-profile</a>
 </p>
 
