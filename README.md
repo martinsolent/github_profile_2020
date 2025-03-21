@@ -98,12 +98,12 @@ Now go to your main profile page - Overview and your README will be visable as a
 ![link_to_tutorial](github_profile_img/link_to_tutorial.png)
 
 
-POWELL.,M., 2020. *How To Create A GitHub Profile README* [viewed 19 July 2020]. Available from: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+POWELL.,M., 2025. *How To Create A GitHub Profile README* [viewed 21 March 2025]. Available from: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
 
 
 ### How to insert Emojis in GitHub
 
 
-BALL.,K. 2020. *EMOJI cheatsheet* [viewed 19 July 2020]. Available from: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+BALL.,K. 2025. *EMOJI cheatsheet* [viewed 21 March 2025]. Available from: [https://gist.github.com/roachhd/1f029bd4b50b8a524f3c](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
 
 ![tut_6](github_profile_img/tut_6.png)
