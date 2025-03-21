@@ -30,7 +30,7 @@ When it comes to your GitHub profile, it's essential to strike a balance between
 **Don't:**
 1. Sensitive Information: Avoid including sensitive personal information such as your home address, phone number, or personal email address.
 
-1. C**onfidential Code:** Refrain from uploading proprietary or confidential code to public repositories. Be mindful of intellectual property rights and confidentiality agreements.
+1. **Confidential Code:** Refrain from uploading proprietary or confidential code to public repositories. Be mindful of intellectual property rights and confidentiality agreements.
 
 1. **Incomplete or Untidy Repositories:** Keep your repositories organised and well-documented. Avoid leaving unfinished or messy projects on your profile.
 
