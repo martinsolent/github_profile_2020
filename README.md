@@ -9,7 +9,9 @@ There are some new features on GitHub for creating a main promotional profile an
 
 #### Avoid having a GitHub Profile that makes you look like a Bot!
 
-When it comes to your GitHub profile, it's essential to strike a balance between showcasing your skills, projects, and contributions while maintaining professionalism and privacy. Here are some dos and don'ts for what information to include on your GitHub profile.
+When it comes to your GitHub profile, it's essential to strike a balance between showcasing your skills, projects, and contributions while maintaining professionalism and privacy. 
+
+Here are some dos and don'ts for what information to include on your GitHub profile.
 
 **Do:**
 1. **Professional Profile Picture:** Use a professional photo or avatar that represents you well in a work context.
@@ -22,19 +24,19 @@ When it comes to your GitHub profile, it's essential to strike a balance between
 
 5. **Skills:** Include a list of relevant skills and technologies you're proficient in. This helps others quickly assess your expertise.
 
-6. **Contact Information:** Optionally, provide ways for others to reach out to you, such as an email address or social media profiles.
+6. **Contact Information:** Provide ways for others to reach out to you, such as an email address or social media profiles.
 
 7. **Open Source Contributions:** Mention any open-source projects you maintain or actively contribute to. This showcases your commitment to collaboration and community building.
 
 
 **Don't:**
-1. Sensitive Information: Avoid including sensitive personal information such as your home address, phone number, or personal email address.
+1. **Sensitive Information:** Avoid including sensitive personal information such as your home address, phone number, or personal email address.
 
 1. **Confidential Code:** Refrain from uploading proprietary or confidential code to public repositories. Be mindful of intellectual property rights and confidentiality agreements.
 
 1. **Incomplete or Untidy Repositories:** Keep your repositories organised and well-documented. Avoid leaving unfinished or messy projects on your profile.
 
-1. **Unprofessional Content:** Refrain from sharing content that could be considered offensive, discriminatory, or unprofessional. Remember that your GitHub profile is a reflection of your professional image.
+1. **Unprofessional Content:** Do not share content that could be considered offensive, discriminatory, or unprofessional. Remember that your GitHub profile is a reflection of your professional image.
 
 1. **Overly Personal Details**: While it's fine to mention hobbies or interests, avoid oversharing personal details that are unrelated to your professional profile.
 
