@@ -1,11 +1,11 @@
 # GitHub Profile
 ### How to create a main profile
 
-There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page like the example below:
-
-**POWELL.,M. 2025.** *M0nica - Overview* [viewed 21 March 2025]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
+There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page, like the example below:
 
 ![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
+
+**POWELL.,M. 2025.** *M0nica - Overview* [viewed 21 March 2025]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
 
 #### Avoid having a GitHub Profile that makes you look like a Bot!
 
