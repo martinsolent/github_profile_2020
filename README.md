@@ -16,15 +16,15 @@ Here are some dos and don'ts for what information to include on your GitHub prof
 **Do:**
 1. **Professional Profile Picture:** Use a professional photo or avatar that represents you well in a work context.
 
-1. **Bio/Description:** Write a brief, informative bio that highlights your expertise, interests, and contributions. Keep it concise and relevant.
+1. **Bio/Description:** Write a brief, informative bio highlighting your expertise, interests, and contributions. Keep it concise and relevant.
 
 3. **Repositories:** Publicly showcase your best projects, contributions, and code samples. Organise them with clear descriptions and README files.
 
-4. **Contributions:** Highlight your contributions to open-source projects and collaborations. This demonstrates your engagement and expertise within the developer community.
+4. **Contributions:** Make you sure you are showing that you are “active” in the Contributions panel either for personal and joint project.
 
 5. **Skills:** Include a list of relevant skills and technologies you're proficient in. This helps others quickly assess your expertise.
 
-6. **Contact Information:** Provide ways for others to reach out to you, such as an email address or social media profiles.
+6. **Contact Information:** Provide ways for others to contact you, such as an email address or social media profiles.
 
 7. **Open Source Contributions:** Mention any open-source projects you maintain or actively contribute to. This showcases your commitment to collaboration and community building.
 
