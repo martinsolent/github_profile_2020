@@ -13,7 +13,7 @@ When it comes to your GitHub profile, it's essential to strike a balance between
 
 <p align="center">
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7e152607-fc61-49a7-8de4-b2e3008a6a05&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Creating Professional GitHub Profile" ></iframe>
-
+<br>
 [Download GitHub Profile Slides](GitHub_Profile_2025.pptx)
 </p>
 
